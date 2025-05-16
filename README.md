@@ -10,8 +10,5 @@
 (17.05.2025)
 
 
-![GitHub Skyline](https://github.com/manuelboldrer/manuelboldrer/blob/main/skyline.png)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-[![Manuel’s activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manuelboldrer&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
